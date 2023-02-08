@@ -1,0 +1,14 @@
+Package: montyhall
+Title: Simulation of the Monty Hall Problem
+Version: 0.0.0.9000
+Authors@R: 
+    person("Allison", "Stout", , "anstout@su.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9988-8166"))
+Description: This package simulates the Monty Hall problem.  It utilizes loops to see the probability of winning if the player chooses to stay or switch doors.
+Depends: 
+   dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
